@@ -5,8 +5,8 @@
 ### Busco ter o perfil de FULLSTACK futuramente e meu objetivo é chegar lá.
 
 <div>
-  <a href="https://github.com/Jonilson_Silva_Mendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonilsonsilva28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/JonilsonSilva28/JonilsonSilva29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonilsonSilva28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonilsonsilva28&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
@@ -26,6 +26,6 @@
 ## Contato e-mail: jonilsonpm440@gmail.com
 ## Perfil LinkedIn:https://www.linkedin.com/in/jonilson-silva-144744165/
 
-<div>​
-  ![Snake animation](https://github.com/jonilsonsilva28/jonilsonsilva28/blob/output/github-contribution-grid-snake.svg)
+<div>
+  ![Snake animation](https://github.com/JonilsonSilva28/JonilsonSilva28/blob/output/github-contribution-grid-snake.svg)
 </div>
